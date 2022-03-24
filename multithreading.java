@@ -1,4 +1,5 @@
 /*
+EL NOMBRE DEBERÍA CAMBIARLO A arbolbst.java. Pero me quedé sin tiempo pq me cambio la hora de vencimiento profe :'v se pasa.
 Viveros Sanchez Erick Enrique
 Jimeno Reyes Magaly Citlali
 3BM1
